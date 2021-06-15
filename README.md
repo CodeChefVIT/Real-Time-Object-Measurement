@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.codechefvit.com" target="_blank"><img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo-3.png" title="CodeChef-VIT" alt="Codechef-VIT"></a>
 </p>
 
-# AR Space Measuremnet-3D
+# AR Space Measurement-3D
 
 > <Subtitle>
 > Include project description here.
@@ -18,15 +18,12 @@
 
 ## Instructions to run
 ```
-$ git clone https://github.com/CodeChefVIT/<Project>
-$ cd <Project>
-$ pip3 install -r requirements.txt
-$ python3 manage.py runserver
+$ git clone https://github.com/CodeChefVIT/Real-Time-Object-Measurement
+	
 ```
 
 ## Contributors
-- <a href="https://github.com/<Contributor>">Contributor Name</a>
-- <a href="https://github.com/<Contributor>">Contributor Name</a>
+- <a href="https://github.com/Thamanmuthappa">Thaman Muthappa M N</a>
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
